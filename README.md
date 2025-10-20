@@ -140,7 +140,7 @@
 </body>
 </html>
 ```
-# Penjelasan:
+**Penjelasan:**
 
  - Fungsi `validasiForm()` memeriksa field nama dan email.
  - Menggunakan regex untuk validasi format email.
@@ -699,3 +699,8 @@
  - Pesan sukses ketika semua validasi berhasil.
  - Penggunaan class CSS yang terorganisir.
  - Event listeners untuk interaktivitas yang lebih baik.
+
+# Contoh hasil Input dan hasil output
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/09faff51-ba05-4896-bee0-fa258fa862fd" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/91eda63f-d31b-4e5f-a347-75a4ebc40e3f" />
